@@ -87,4 +87,4 @@ async def fanart(ctx):
     await ctx.send(file=picture)
 
 
-bot.run('MTExOTUxOTk3NzA4NzcxMzMyMQ.GKqq_5.2U112jJptAXAeuDq2OLMah6P8zSnS92ET9bWE4')
+bot.run('token')
